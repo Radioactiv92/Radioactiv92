@@ -1,0 +1,70 @@
+- 👋 Hi, I’m @Radioactiv92
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Radioactiv92/Radioactiv92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+Firebase
+
+
+
+Documentation
+
+Firebase
+Firebase
+Docs
+Reference
+Was this helpful?
+
+Send feedback
+FirebaseVisionBarcode.WiFi 
+
+bookmark_border
+public static class FirebaseVisionBarcode.WiFi extends Object
+A wifi network parameters from a 'WIFI:' or similar QRCode type.
+
+Nested Class Summary
+@interface	FirebaseVisionBarcode.WiFi.EncryptionType	Wifi encryption type constants. 
+Constant Summary
+int	TYPE_OPEN	WiFi encryption type.
+int	TYPE_WEP	
+int	TYPE_WPA	
+Public Method Summary
+int	
+getEncryptionType()
+Gets the encryption type of the WIFI.
+String	
+getPassword()
+Gets the password of the WIFI.
+String	
+getSsid()
+Gets the ssid of the WIFI.
+Inherited Method Summary
+From class java.lang.Object
+Constants
+public static final int TYPE_OPEN
+WiFi encryption type.
+
+Constant Value: 1
+public static final int TYPE_WEP
+Constant Value: 3
+public static final int TYPE_WPA
+Constant Value: 2
+Public Methods
+public int getEncryptionType ()
+Gets the encryption type of the WIFI.
+
+See all FirebaseVisionBarcode.WiFi.EncryptionType.
+
+public String getPassword ()
+Gets the password of the WIFI.
+
+public String getSsid ()
+Gets the ssid of the WIFI.[downloaded-logs-20241027-163304.json](https://github.com/user-attachments/files/18730275/downloaded-logs-20241027-163304.json)
